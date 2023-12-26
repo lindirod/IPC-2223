@@ -1,6 +1,6 @@
 # NoteGram
 
-Projeto da Unidade Curricular [Interação Pessoa-Computador](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=335832) 2022/2023
+Projeto no âmbito da Unidade Curricular Interação Pessoa-Computador 2022/2023
 
 # Fases do projecto
 
